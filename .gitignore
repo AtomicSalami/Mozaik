@@ -1,0 +1,26 @@
+# folders
+.*/
+**/__pycache__/
+*.py[cod]
+*.so
+
+# env files
+.env
+sample.env
+.env.local
+.env.development.local
+
+# images
+*.png
+*.jpg
+
+# files
+*.log
+*.zip
+*.tar.gz
+*.txt
+*.md 
+*.json
+*.csv
+*.xml
+*.pyc
